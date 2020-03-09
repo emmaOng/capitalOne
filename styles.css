@@ -1,0 +1,43 @@
+
+#navbar_style {
+    margin-top:-1.8%;
+    border: 0;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+
+#business_header {
+    margin-top: 2%;
+    padding-left: 1.2%;
+    margin-bottom: 1.5%;
+}
+
+.logo_style{
+    font-size: 350%;
+    font-family: 'Grand Hotel', cursive;
+}
+
+.thead_style {
+    padding-left: 120%;
+    margin-left: 120%;
+}
+
+
+  #map {
+    height: 40%;
+    padding-left: 10%;
+    padding-top: 15%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+ 
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+
